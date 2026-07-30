@@ -48,5 +48,5 @@ Esto permitió agilizar el proceso creativo y enfocarme en la estructura y el es
 
 ## 🌐 Ver el proyecto en vivo
 
-👉 [Hacé clic acá para ver la tarjeta de presentación](https://matirodrigo.github.io/tarjeta-de-presentacion-Hacker/)
+👉 [Hacé clic acá para ver la tarjeta de presentación](https://matirodrigo.github.io/tarjeta-de-presentacion-Ingeniero-en-Ciberseguridad/)
 
